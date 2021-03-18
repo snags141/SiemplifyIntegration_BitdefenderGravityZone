@@ -97,5 +97,7 @@ Additional reports and their mapped ID's can be added to the top of this file, b
 	}
 ## Connectors?
 Unfortunately, Bitdefender only supports a "push" model of alerting. Where by, you tell their API where it should push the alerts to (SIEM, custom syslog) and it sends them to that destination. Therefore you must either use a SIEM or a custom webserver that's set up to monitor for alerts.
+
 [How to integrate GravityZone Cloud Platform with Splunk](https://www.bitdefender.com/support/how-to-integrate-gravityzone-cloud-platform-with-splunk-2152.html)
+
 [Building an Event Push Service API Connector for CEF standard](https://www.bitdefender.com/support/building-an-event-push-service-api-connector-for-cef-standard-2373.html)
