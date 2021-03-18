@@ -1,0 +1,2 @@
+# SiemplifyIntegration_BitdefenderGravityZone
+Bitdefender GravityZone Integration for Siemplify
